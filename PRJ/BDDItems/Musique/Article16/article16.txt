@@ -1,0 +1,26 @@
+Article 16 :
+ID : 16
+Nom : Coup de foudre a Bollywood
+Photo : article16.jpg
+Description : 
+
+	Details du produit:
+
+	Compositeur Anu Malik,
+		    Craig Pruess,
+	Format CD
+	Genre Bande original de film
+	Editeur Sonima
+	Date de parution novembre 2004
+
+	Resume : 
+
+Coup de foudre a Bollywood (Bride et Prejudice) 
+est un film americano-britanno-indien realise 
+par Gurinder Chadha, sorti le 6 octobre 2004, 
+qui transpose le roman de Jane Austen Orgueil 
+et Prejuges dans l'Inde contemporaine, melant 
+la tradition du film britannique avec les codes 
+de Bollywood.  
+
+Prix : 49.99 EUR

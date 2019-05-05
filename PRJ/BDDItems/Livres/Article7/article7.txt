@@ -1,0 +1,31 @@
+Article 7 :
+ID : 7
+Nom : Les aventures de Sherlock Holmes
+Photo : article7.jpg
+Description : 
+	Details du produit :
+	Auteur Sir Arthur Conan Doyle
+	Date de parution 6 mars 2019
+	Editeur Archipoche
+	Collection Archipoche
+	Format 10cm x 17cm
+	Nombre de pages 250
+
+Resume :
+
+12 nouvelles de 1891 et 1892 :
+- Un scandale en Boheme
+- La Ligue des rouquins
+- Une affaire d'identite
+- Le Mystere du Val Boscome
+- Les Cinq Pepins d'orange
+- L'Homme a la levre tordue
+- L'Escarboucle bleue
+- Le Ruban mouchete
+- Le Pouce de l'ingenieur
+- Un gentleman celibataire
+- Le Diademe de beryls
+- Les Hetres rouges
+
+Vidéo : 
+Prix : 7 euros 95

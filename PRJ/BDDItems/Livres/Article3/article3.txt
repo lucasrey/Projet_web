@@ -1,0 +1,24 @@
+Article 3 :
+ID : 3
+Nom : Madame Bovary
+Photo : article3.jpg
+Description : 
+	Details du roman :
+	Auteur Gustave Flaubert
+	Date de parution janvier 1972
+	Editeur Lgf
+	Collection Classiques
+	Format 11cm x 17cm
+	Nombre de pages 576
+
+	Resume : 
+
+Une jeune femme romanesque qui s'etait construit un monde romantiquement reve 
+tente d'echapper, dans un vertige grandissant, a l'ennui de sa province, 
+la mediocrite de son mariage et la platitude de sa vie. Mais quand Flaubert 
+publie Madame Bovary, en 1857, toute la nouveaute du roman reside dans le 
+contraste entre un art si hautement accompli et la peinture d'un univers si 
+ordinaire. L'ecriture transfigure la vie, mais s'y adapte si etroitement qu'elle 
+la fait naitre sous nos yeux.
+
+Prix : 3 euros 80

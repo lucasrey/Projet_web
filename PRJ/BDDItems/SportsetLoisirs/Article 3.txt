@@ -1,0 +1,8 @@
+id : 3
+
+nom : Velo
+
+description : 
+Velo tout-terrain Shimano VTT, aluminium, double disque et suspension 70 cm (27,5)
+
+prix : 320€

@@ -1,0 +1,28 @@
+Article 12 :
+ID : 12
+Nom : Wonder Woman
+Photo : article12.jpg
+Description : 
+
+	Details du produit:
+
+	Compositeur Rupert Gregson-Williams
+	Format CD
+	Genre Bande originale de film
+	Editeur Sony
+	Date de parution mai 2017
+
+	Resume : 
+
+Titre To Be Human interprete par SIA feat. Labrinth
+Wonder Woman Theme par Hans Zimmer et Junkie XL
+
+La bande-originale de ce film a ete composee par Ruper 
+Gregson-Williams, compositeur anglais connu pour son 
+travail sur Hotel Rwanda (2004), La Légende de Tarzan
+(2016) ou encore Hacksaw Ridge. Pour cette nouvelle 
+bande-originale, Rupert Gregson-Williams a coopere avec 
+Hans Zimmer, qui a lui-meme compose le theme principal 
+du film avec Junkie XL. 
+
+Prix : 15.20 EUR

@@ -1,0 +1,26 @@
+Article 20 :
+ID : 20
+Nom : Veste Tie & Dye
+Photos : article20.jpg
+
+Description :
+
+Veste ample avec col a revers et manches 
+longues. Poches sur les cotes et poches 
+plaquees sur la poitrine. Fentes laterales. 
+Fermeture sur le devant par boutons metalliques.
+
+En raison du processus de teinture, l'imprime 
+de chaque veste est unique et peut presenter 
+des differences par rapport au modele montre 
+sur la photo. 
+
+
+Prix : 29,99 EUR
+
+Variation 20 :
+ID : 20
+
+Couleur : Vert bouteille
+Taille : L
+Genre : Femme

@@ -1,0 +1,10 @@
+ALTER TABLE item ADD FOREIGN KEY (ID_cl) REFERENCES client(PersonID);
+
+ //recurer id vendeur
+          $sql = "SELECT id FROM users WHERE username = '$username'";
+          $result = mysqli_query($db_handle, $sql); 
+
+          while($data = mysqli_fetch_assoc($result))  
+          {
+            $ID = $data['id'];
+            echo '<script>alert("ID: $ID"))</script>';}  

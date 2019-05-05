@@ -1,0 +1,8 @@
+id : 2
+
+nom : Ballon de foot FFF
+
+type : football
+description : Ballon de la collection officielle de l'equipe de france de football
+
+prix : 25€

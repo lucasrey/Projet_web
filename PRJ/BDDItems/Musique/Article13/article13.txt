@@ -1,0 +1,33 @@
+Article 13 :
+ID : 13
+Nom : David Guetta
+Photo : article13.jpg
+Description : 
+
+	Details du produit:
+
+	Compositeur David Guetta 
+	Format CD
+	Genre Musique Pop
+	Editeur Parlophone
+	Date de parution septembre 2018
+
+	Resume : 
+
+David Guetta, le patron mondial de l’electro-pop 
+est de retour avec son 7eme album studio sobrement 
+intitulé 7.
+
+DJ n1 dans le monde, il regne sur le monde des clubs 
+et de la pop depuis le debut des annees 2000. 
+Ce nouvel album evenement ravira ces nombreux fans 
+et va continuer de faire danser la planete. 
+
+Double album : 
+- un album pop de 15 tracks ( 4 bonus sur le limite ) 
+inclus les enormes tubes Flames feat. Sia, 2U feat. 
+Justin Bieber, Like I Do feat. Martin Garrix et Brooks 
+et le dernier single Don’t Leave Me Alone feat. Anne-Marie
+- un album electro compose de 12 tracks 
+
+Prix : 12.79 EUR

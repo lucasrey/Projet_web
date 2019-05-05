@@ -1,0 +1,23 @@
+Article 6 :
+ID : 6
+Nom : L'Iliade et l'Odyssee
+Photo : article6.jpg
+Description : 
+	Details du produit :
+	Auteur Homere
+	Date de parution juin 2009
+	Editeur Pcket Jeunesse
+	Collection Pocket jeunesse classiques
+	Format 10cm x 17cm
+	Nombre de pages 192
+
+Resume :
+
+Un prince a enleve la femme d'un roi. Une armee de 120 000 hommes 
+s'est rassemblee pour aller la chercher : le debut de dix annees 
+de guerre et de souffrances... Puis chacun des chefs vainqueurs 
+est rentre dans sa patrie. Poursuivi par la colere de Poseidon, 
+l'un d'entre eux mettra dix ans pour retrouver son foyer, sa femme 
+et son fils... 
+
+Prix : 4 euros 90

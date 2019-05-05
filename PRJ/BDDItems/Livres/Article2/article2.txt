@@ -1,0 +1,23 @@
+Article 2 :
+ID : 2
+Nom : Orgueil et prejuges
+Photo : article2.jpg
+
+Description : 
+Resume : 
+Elisabeth Bennet a quatre soeurs et une mere qui ne songe qu’a les marier. 
+Quand parvient la nouvelle de l’installation a Netherfield, le domaine voisin, 
+de Mr Bingley, celibataire et beau parti, toutes les dames des alentours sont 
+en emoi, d’autant plus qu’il est accompagne de son ami Mr Darcy, un jeune et 
+riche aristocrate. Les preparatifs du prochain bal occupent tous les esprits… 
+
+Prix : 6 euros 60
+
+Auteur : Jane Austen
+Date de parution : 30/11/2011
+Editeur : Lgf
+Collection : Classiques
+Nombre de pages : 512
+
+
+Format : 11cm x 18cm

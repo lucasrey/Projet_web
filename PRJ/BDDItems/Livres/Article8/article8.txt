@@ -1,0 +1,24 @@
+Article 8 :
+ID : 8
+Nom : Romeo et Juliette
+Photo : article8.jpg
+Description : 
+	Details du produit :
+	Auteur William Shakespeare
+	Date de parution 27 avril 2012
+	Editeur Magnard
+	Collection Classiques et Patrimoine
+	Format 10cm x 17cm
+	Nombre de pages 200
+
+Resume :
+
+Car jamais aventure ne fut plus douloureuse que 
+celle de Juliette et de son Romeo. C'est par ces 
+mots que Shakespeare conclut la tragique histoire 
+des amants de Verone devenus, au fil du temps, les 
+figures mythiques de l'amour et de la jeunesse en 
+lutte contre l'absurdite des conflits familiaux aux 
+rivalites ancestrales. 
+
+Prix : 2 euros 95

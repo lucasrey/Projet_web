@@ -1,0 +1,27 @@
+Article 14 :
+ID : 14
+Nom : Pirates des Caraïbes
+Photo : article14.jpg
+Description : 
+
+	Details du produit:
+
+	Compositeur Klaus Badelt
+	Format CD
+	Genre Bande original de film
+	Editeur Universal Music
+	Date de parution juillet 2003
+
+	Resume : 
+
+Klaus Badelt compose la musique du premier film 
+de la saga Pirates des Caraibes. Il est aide dans 
+sa tache par plusieurs collaborateurs de Hans 
+Zimmer rattaches au studio Media Ventures : Ramin 
+Djawadi, Nick Glennie-Smith, Steve Jablonsky, Geoff 
+Zanelli, Blake Neely (musiques additionnelles) et 
+Zimmer lui-meme qui esquisse le desormais celebre 
+theme de la saga, qu'il mettra en musique par la 
+suite. 
+
+Prix : 9.20 EUR

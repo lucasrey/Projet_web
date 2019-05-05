@@ -1,0 +1,21 @@
+Article 11 :
+ID : 11
+Nom : A star is born
+Photo : article11.jpg
+Description : 
+
+	Details du produit:
+	Compositeur Lady Gaga
+	Format CD
+	Genre Bande originale de film
+	Editeur Polydor
+	Date de parution octobre 2018
+
+	Resume : 
+Lady Gaga est de retour, avec un film et sa BOF : A Star Is Born. 
+Via ce remake de A Star Is Born, il poursuit l'histoire d'amour d'Hollywood 
+avec le film eponyme de 1937, sur une star de cinema qui aide une jeune actrice 
+a devenir celebre, alors que l'age et l'alcoolisme plongent sa propre 
+carriere dans une spirale descendante.
+
+Prix : 11 euros 99

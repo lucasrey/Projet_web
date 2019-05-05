@@ -1,0 +1,25 @@
+Article 5 :
+ID : 5
+Nom : Les Fleurs du mal
+Photo : article5.jpg
+Description : 
+	Details du produit :
+	Auteur Charles Baudelaire
+	Date de parution avril 2014
+	Editeur Hatier
+	Collection CLassiques & Cie Lycee
+	Format 12cm x 17cm
+	Nombre de pages 328
+
+L’oeuvre phare de Baudelaire, suivie des fragments d’Un coeur mis a nu. 
+Un petit classique numérique, avec un cahier couleurs d’histoire des arts.
+
+Le recueil de Baudelaire
+Cette edition reunit les 100 poemes de l’edition originale de 1857, 
+classes dans l’ordre voulu par Baudelaire, et les ajouts successifs 
+de 1861 et 1866.
+Dans sa preface, le poete Stephane Bouquet donne a la quete 
+baudelairienne le sens d’une priere visant a « rendre la vie plus 
+vivable ».
+ 
+Prix : 3 euros 60

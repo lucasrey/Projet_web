@@ -1,0 +1,33 @@
+Article 17 :
+ID : 17
+Nom : Slumdog millionaire
+Photo : article17.jpg
+Description : 
+
+	Details du produit:
+
+	Compositeur A.R.Rahman
+	Format CD
+	Genre Bande original de film
+	Editeur Plydor
+	Date de parution juillet 2009
+
+	Resume : 
+
+Slumdog Millionaire est le film de Danny Boyle, 
+realisateur surdoue de Trainspotting, Sunshine 
+ou encore 28 jours plus tard. 
+Couronne de succes a de nombreuses ceremonies, le film 
+suit les pas d'un jeune Indien issu des quartiers 
+pauvres, finaliste de la version locale de Qui veut 
+gagner des millions, qui verra sa vie 
+bouleversee par cette experience. A mi-chemin entre 
+love story et plongee en apnee dans les bas fond 
+de la ville indienne de Mumbai, Slumdog Millionaire
+beneficie d'une bande originale melangeant hip-hop 
+et musique indienne traditionnelle, ecrite par la 
+star de Bollywood A.R. Rahman. On y retrouve egalement 
+le titre Paperplane de M.I.A. ainsi que son remix 
+electro par DFA. 
+
+Prix : 9.20 EUR

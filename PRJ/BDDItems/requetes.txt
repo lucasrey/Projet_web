@@ -1,0 +1,2 @@
+ALTER TABLE image ADD FOREIGN KEY (identification) REFERENCES item(identification;
+it.description, it.video, it.prix, it.categorie, it.quantite, 

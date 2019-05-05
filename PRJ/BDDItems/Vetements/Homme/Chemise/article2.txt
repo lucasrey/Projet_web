@@ -1,0 +1,21 @@
+Article 2 :
+ID : 2
+Nom : Chemise preminium structuree
+Photos : article2.0.jpg, article2.1.jpg, article2.2.jpg et article2.3.jpg
+
+Description :
+
+Chemise coupe regular avec col a revers, 
+boutons et manches longues et poignets 
+reglables par bouton. Fermeture par 
+boutons sur le devant.
+
+
+Prix : 39,95 EUR
+
+Variation 2 :
+ID : 2
+
+Couleur : Bleu
+Taille : M
+Genre : Homme

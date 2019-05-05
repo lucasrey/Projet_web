@@ -1,0 +1,29 @@
+Article 9 :
+ID : 9
+Nom : Bel Ami
+Photo : article9.jpg
+Description : 
+	Details du produit :
+	Auteur Guy De Maupassant
+	Date de parution 01/08/1979
+	Editeur Lgf
+	Collection Classiques
+	Nombre de pages 384
+
+Resume :
+
+A qui Georges Duroy doit-il son irresistible ascension ? 
+Aux femmes seduites par sa jeunesse et sa beaute. La petite 
+fille de l'une de ses maitresses le surnommera Bel-Ami. Et 
+ce fils d'aubergistes normands, a Canteleu, deviendra baron 
+Du Roy de Cantel. L'amitie lui ouvrira la carriere 
+journalistique. L'amour lui donnera l'argent et la gloire. 
+Maupassant a ete journaliste. Il a connu ce monde parisien 
+du xixe siecle, les salles de redaction qui font et defont 
+les ministeres, et leurs annexes, les salons mondains ou 
+naissent intrigues et liaisons. Ses portraits de femmes 
+devorees d'amour ou d'ambition, ses tableaux de la vallee 
+de la Seine a Rouen, ses fiacres, avenue du Bois de Boulogne, 
+sont oeuvre de peintre. Maupassant etait un maitre du recit.
+
+Prix : 2 euros 95

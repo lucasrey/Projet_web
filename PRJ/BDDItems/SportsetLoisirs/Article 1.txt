@@ -1,0 +1,9 @@
+id : 1
+
+nom : Raquette de tennis Head
+
+type : tennis
+description : 
+Longueur de la tete : 27cm, taille : 98cm, Poids : 294,8 g non cordee, equilibre : 6 pts.
+
+prix : 99e

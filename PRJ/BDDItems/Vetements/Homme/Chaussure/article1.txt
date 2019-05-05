@@ -1,0 +1,21 @@
+Article 1 :
+ID : 1
+Nom : Chaussures en cuir ANTIK
+Photos : article1.0.jpg, article1.1.jpg, article1.2.jpg et article1.3.jpg
+
+Description :
+
+Chaussures derbys en cuir. 
+Fini antik. Lacage a cinq passants. 
+Forme arrondie. Semelle interieure 
+et doublure en cuir. Disponible en 
+noir et bordeaux.
+
+Prix : 69,95 EUR
+
+Variation 1 :
+ID : 1
+
+Couleur : Noir
+Taille : 42
+Genre : Homme

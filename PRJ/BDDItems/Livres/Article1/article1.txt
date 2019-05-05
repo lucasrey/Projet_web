@@ -1,0 +1,23 @@
+Article 1 :
+ID : 1
+Nom : Tokyo Vice
+Photo : article.jpg
+Description : 
+	Details du roman :
+	Auteur Jake Adelstein
+	Date de parution 05/10/2017
+	Editeur Points
+	Collection Points Policier
+	Format 11cm x 17cm
+	Nombre de pages 512
+
+	Resume : 
+Vous supprimez cet article, ou c'est vous qu'on supprime. 
+Derriere la fumee de sa cigarette, Jake n'est pas vraiment en position de negocier. 
+Premier journaliste occidental a travailler pour le quotidien japonais Yomiuri 
+Shinbun, il court apres les bons sujets. Et la, il en tient un. Un serieux, un fumeux,
+ un dangereux : le yakusa le plus celebre du Japon s'est fait operer secretement aux 
+Etats-Unis. L'article vaut son pesant d'or. La mafia japonaise le sait. Et elle ne fera 
+pas de cadeau a Jake Adelstein. Tokyo Vice est son histoire. 
+
+Prix : 8 euros 40

@@ -1,0 +1,19 @@
+Article 4 :
+ID : 4
+Nom : Robe en resille avec bretelles
+Photos : article4.jpg
+
+Description :
+
+Robe avec decollete en V et bretelles 
+fines reglables. Doublure. 
+
+
+Prix : 29,95 EUR
+
+Variation 4 :
+ID : 4
+
+Couleur : Vert
+Taille : S
+Genre : Femme

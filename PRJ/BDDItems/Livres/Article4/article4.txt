@@ -1,0 +1,23 @@
+Article 4 :
+ID : 4
+Nom : Le Cid
+Photo : article4.jpg
+Description : 
+	Details du produit :
+	Auteur Pierre Corneille
+	Date de parution septembre 1999
+	Editeur Hachette Education
+	Collection Bibliocollège
+	Format 12cm x 18cm
+	Nombre de pages 192
+
+	Resume : 
+
+Rodrigue et Chimene sont sur le point de se marier mais une grave querelle oppose 
+leurs peres : a la suite d'une rivalite, le Comte, pere de Chimene, gifle don Diegue, 
+pere de Rodrigue. L'affront ne peut etre repare que par la mort du Comte, mais don 
+Diegue, trop vieux, remet son epee a Rodrigue pour venger son honneur. Rodrigue doit
+alors faire face a un douloureux dilemme : perdre Chimene ou son honneur. Que fera 
+Rodrigue ?
+
+Prix : 3 euros

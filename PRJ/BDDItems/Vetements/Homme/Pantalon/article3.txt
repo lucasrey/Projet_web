@@ -1,0 +1,20 @@
+Article 3 :
+ID : 3
+Nom : Pantalon carotte a chaine
+Photos : article3.0.jpg
+
+Description :
+
+Pantalon coupe carotte avec chaine sur la taille. 
+Poches avant et poches a double passepoil a l'arriere. 
+Longueur cropped avec bas a revers. Fermeture avant 
+par zip et bouton.
+
+Prix : 39,95 EUR
+
+Variation 3 :
+ID : 3
+
+Couleur : Bleu Marine
+Taille : 40
+Genre : Homme

@@ -1,0 +1,8 @@
+id : 4
+nom : 
+type : natation
+Frite de natation
+
+description : 1 piece – Frite de piscine 160 x 7 cm en mousse souple polyethylene.
+
+prix : 15€

@@ -1,0 +1,8 @@
+id : 5
+
+type : electronique
+nom : Bracelet d’activite forme et sport
+
+description : autonomie de batterie longue duree, etanche, suivi d’activite specifique.
+
+prix : 130€

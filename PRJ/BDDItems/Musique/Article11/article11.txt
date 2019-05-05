@@ -1,0 +1,29 @@
+Article 12 :
+ID : 12
+Nom : The Greatest Showman
+Photo : article11.jpg
+Description : 
+
+	Details du produit:
+	Compositeur John Debney, 
+		    Benj Pasek, 
+		    Justin Paul, 
+	            Joseph Trapanese
+	Format CD
+	Genre Bande originale de film
+	Editeur Warner
+	Date de parution janvier 2018
+
+	Resume : 
+La bande son du film evenement !
+Film nomme dans 3 categories aux Golden Globes et laureat 
+du Golden Globe de la meilleure chanson pour This Is Me.
+Bande son n1 dans plus de 30 pays lors de sa sortie 
+(USA, UK, Allemagne…)
+Decouvrez l’histoire de P.T Barnum, un visionnaire parti 
+de rien pour creer un spectacle devenu un phenomene planetaire. 
+Bande originale ecrite par les auteurs de La La Land et interpretee 
+par les acteurs du fi lm. Avec Hugh Jackman, Michelle Williams,
+Zendaya, Zac Efron et Rebecca Ferguson. 
+
+Prix : 7 EUR
